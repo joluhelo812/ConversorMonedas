@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversor de divisas</string>
+    <string name="conversor">Conversor de divisas</string>
+    <string name="monedaacon">Elegir moneda a convertir: </string>
+    <string name="ingresevalor">Ingrese valor</string>
+    <string name="convertir">Convertir</string>
+    <string-array name="monedas">
+        <item></item>
+        <item>Dólar estadounidense</item>
+        <item>Euro</item>
+        <item>Peso colombiano</item>
+        <item>Yen</item>
+        <item>Peso mexicano</item>
+    </string-array>
+</resources>
